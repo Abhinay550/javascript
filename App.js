@@ -1,11 +1,11 @@
+import React from 'react';
+import MyForm from './components/MyForm';
+import './App.css';
 
-
-function App() {
+const App = () => {
   return (
-     <div className="App">
-       <h1 style={{color:"YELLOW"}}> VALLAMKONDA ABHINAY</h1>
-    let username = "ABHINAY";
-    return()
+    <div className='app'>
+      <MyForm />
     </div>
   );
 }
