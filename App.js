@@ -1,11 +1,12 @@
 import React from 'react';
-import MyForm from './components/MyForm';
-import './App.css';
+// import MyForm from './components/MyForm';
+// import './App.css';
+import UseEffectEx from './UseEffectEx';
 
 const App = () => {
   return (
     <div className='app'>
-      <MyForm />
+      <UseEffectEx/>
     </div>
   );
 }
