@@ -11,3 +11,7 @@ what is virtual dom?
  -jsx stands for javascriot and xml.
  -jsx is a javascript syntax extension  used to create html-like markup in the react.
  -actual way to create a element in react is by using a method
+
+2.useEffect();
+**************
+- it allows developer to make necessary charges / 
